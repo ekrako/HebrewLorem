@@ -1,5 +1,5 @@
 {
-    "name": "HebrewLorem",
+    "name": "hebrewlorem",
     "displayName": "Hebrew Lorem ipsum לורם איפסום",
     "description": "this package is giving the ability to produce lorem ipsum text in hebrew (לורם איפסום)",
     "icon": "images/logo.png",
@@ -9,12 +9,12 @@
     "publisher": "ekrako",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ekrako/hebrewlorem.git"
+        "url": "https://github.com/ekrako/HebrewLorem.git"
     },
     "bugs": {
-        "url": "https://github.com/ekrako/hebrewlorem/issues"
+        "url": "https://github.com/ekrako/HebrewLorem/issues"
     },
-    "homepage": "https://github.com/ekrako/hebrewlorem",
+    "homepage": "https://github.com/ekrako/HebrewLorem",
     "categories": [
         "Programming Languages",
         "Snippets",
