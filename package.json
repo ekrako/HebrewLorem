@@ -3,7 +3,7 @@
     "displayName": "Hebrew Lorem ipsum לורם איפסום",
     "description": "this package is giving the ability to produce lorem ipsum text in hebrew (לורם איפסום)",
     "icon": "images/logo.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Eran Krakovsky",
     "license": "MIT",
     "publisher": "ekrako",
