@@ -1,0 +1,47 @@
+{
+    "name": "HebrewLorem",
+    "displayName": "Hebrew Lorem ipsum לורם איפסום",
+    "description": "this package is giving the ability to produce lorem ipsum text in hebrew (לורם איפסום)",
+    "icon": "images/logo.png",
+    "version": "0.0.1",
+    "author": "Eran Krakovsky",
+    "license": "MIT",
+    "publisher": "ekrako",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ekrako/hebrewlorem.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ekrako/hebrewlorem/issues"
+    },
+    "homepage": "https://github.com/ekrako/hebrewlorem",
+    "categories": [
+        "Programming Languages",
+        "Snippets",
+        "Other"
+    ],
+    "keywords": [
+        "HTML",
+        "Languages",
+        "Snippets",
+        "Web",
+        "lorem",
+        "ipsum",
+        "lorem ipsum",
+        "hebrew",
+        "לורם",
+        "איפסום",
+        "לורם איפסום"
+    ],
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}
